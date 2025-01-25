@@ -1,0 +1,3 @@
+[submodule "shopify-app"]
+	path = shopify-app
+	url = git@github.com:vedant14/hola-shopify-app.git
